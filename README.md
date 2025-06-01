@@ -8,7 +8,8 @@ Platform: ESP32 with integrated Wi-Fi
 
 Cloud: ThingSpeak for IoT data logging and visualization
 
-🔧 Features Implemented
+🔧 Features Implemented:
+
 Dual-axis sun tracking	         ✅
 Floating platform (prototype)	 ✅
 IoT logging to ThingSpeak	     ✅
